@@ -1,5 +1,5 @@
 from laul import Laul
-from csv_lugeja import loe_csv_fail
+from csv_funktsioon import loe_csv_fail
 
 def loo_laulud(tabel):
     laulud = []
