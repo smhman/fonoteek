@@ -4,8 +4,8 @@ Tervist! Puuluup, Marko siin. Siin näidisprojekt.
 ## Ülevaade 🕶️
 Oletame, et sul on kindlad laulud või artistid, keda sa kuulad, ning sa tahad kiirelt aru saada, kui palju sa kindlat laulu kuulad.
 
-### How to open the game :running_man:
-To run the game, follow these steps:
+### Kuidas kasutada rakendust? :running_man:
+Jälgi neid juhiseid:
 * Esiteks, lae alla [Python](https://www.python.org/downloads/).
 * Et käivitada rakendus, käivita CMD-s python main.py
 * Rakendus on eestikeelne, nii et seal oleks mõistlik juba edasi osata lugeda.
